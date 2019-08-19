@@ -66,6 +66,8 @@ body
 .profile-img
 {
 	height: 400px;
+	width: 400px;
+	float: left;
 }
 .nav-bar
 {
@@ -79,7 +81,8 @@ body
 }
 .navbar-brand
 {
-	height: 50px;
+	height: 90px;
+	float: right;
 }
 .nav-bar .fa-bars
 {
